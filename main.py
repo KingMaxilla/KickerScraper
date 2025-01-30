@@ -1,5 +1,7 @@
 import scrapData
 import format
+import formatNames
+import createJSON
 
 print("Session started")
 
@@ -16,7 +18,8 @@ with open("links.txt", "r")as file:
         
         #format content
         formattedcontent = format.formatOutput(listOutput=scrapedcontent)
-        print(formattedcontent)
+        formattedcontent = formatNames.formatAgain(formatedData=formattedcontent)
+        cre
 
 
 
