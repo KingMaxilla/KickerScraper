@@ -1,4 +1,5 @@
 import scrapData
+import format
 
 print("Session started")
 
@@ -12,7 +13,10 @@ with open("links.txt", "r")as file:
         scrapedcontent = []
         for i in range(len(links)):
             scrapedcontent = scrapData.scrap(link=links[i])
-        print(scrapedcontent)
+        
+        #format content
+        formattedcontent = format.formatOutput(listOutput=scrapedcontent)
+        print(formattedcontent)
 
 
 
