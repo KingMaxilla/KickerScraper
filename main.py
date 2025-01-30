@@ -19,7 +19,10 @@ with open("links.txt", "r")as file:
         #format content
         formattedcontent = format.formatOutput(listOutput=scrapedcontent)
         formattedcontent = formatNames.formatAgain(formatedData=formattedcontent)
-        cre
+        
+        #conevert to JSON
+        for i in range(len(formattedcontent)):
+            print(formattedcontent[i])
 
 
 

@@ -14,7 +14,7 @@ def createJSON(originalNameLeague, convertedDataTeams):
             }
         }
         for i in range(len(convertedDataTeams)):
-            data.update(convertedDataTeams[i][2]: {
+            data[convertedDataTeams[i][2]] = {
                 "Position": convertedDataTeams[i][0],
                 "Played": convertedDataTeams[i][3],
                 "Won": convertedDataTeams[i][4],
@@ -23,6 +23,6 @@ def createJSON(originalNameLeague, convertedDataTeams):
                 "Goals": convertedDataTeams[i][7],
                 "GoalsFor": convertedDataTeams[i][8],
                 "GoalsAgainst": convertedDataTeams[i][9],
-                })
+            }
             
          
