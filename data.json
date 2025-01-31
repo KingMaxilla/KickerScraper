@@ -1,0 +1,148 @@
+{
+    "Regionalliga Nord": {
+        "Havelse": {
+            "Position": "1",
+            "Played": "21",
+            "Won": "16",
+            "Drawn": "2",
+            "Lost": "3",
+            "Goals": "47:23"
+        },
+        "Drochtersen": {
+            "Position": "2",
+            "Played": "21",
+            "Won": "12",
+            "Drawn": "4",
+            "Lost": "5",
+            "Goals": "26:16"
+        },
+        "Emden ": {
+            "Position": "3",
+            "Played": "22",
+            "Won": "11",
+            "Drawn": "3",
+            "Lost": "8",
+            "Goals": "40:29"
+        },
+        "Meppen": {
+            "Position": "4",
+            "Played": "21",
+            "Won": "9",
+            "Drawn": "7",
+            "Lost": "5",
+            "Goals": "41:21"
+        },
+        "SV II": {
+            "Position": "5",
+            "Played": "21",
+            "Won": "10",
+            "Drawn": "3",
+            "Lost": "8",
+            "Goals": "39:40"
+        },
+        "Bremen II ": {
+            "Position": "6",
+            "Played": "21",
+            "Won": "10",
+            "Drawn": "2",
+            "Lost": "9",
+            "Goals": "50:39"
+        },
+        "BW Lohne": {
+            "Position": "7",
+            "Played": "21",
+            "Won": "8",
+            "Drawn": "7",
+            "Lost": "6",
+            "Goals": "34:34"
+        },
+        "Weiche Flensburg": {
+            "Position": "8",
+            "Played": "19",
+            "Won": "9",
+            "Drawn": "3",
+            "Lost": "7",
+            "Goals": "35:31"
+        },
+        " L\u00fcbeck": {
+            "Position": "9",
+            "Played": "19",
+            "Won": "8",
+            "Drawn": "5",
+            "Lost": "6",
+            "Goals": "39:29"
+        },
+        "L\u00fcbeck ": {
+            "Position": "10",
+            "Played": "19",
+            "Won": "7",
+            "Drawn": "7",
+            "Lost": "5",
+            "Goals": "29:29"
+        },
+        "Jeddeloh II": {
+            "Position": "11",
+            "Played": "19",
+            "Won": "7",
+            "Drawn": "4",
+            "Lost": "8",
+            "Goals": "27:32"
+        },
+        "St. Pauli II": {
+            "Position": "12",
+            "Played": "20",
+            "Won": "7",
+            "Drawn": "4",
+            "Lost": "9",
+            "Goals": "33:39"
+        },
+        " Ottensen": {
+            "Position": "13",
+            "Played": "21",
+            "Won": "6",
+            "Drawn": "4",
+            "Lost": "11",
+            "Goals": "33:52"
+        },
+        "Oldenburg": {
+            "Position": "14",
+            "Played": "21",
+            "Won": "5",
+            "Drawn": "6",
+            "Lost": "10",
+            "Goals": "27:37"
+        },
+        "SV Todesfelde ": {
+            "Position": "15",
+            "Played": "20",
+            "Won": "6",
+            "Drawn": "3",
+            "Lost": "11",
+            "Goals": "16:32"
+        },
+        "Norderstedt": {
+            "Position": "16",
+            "Played": "21",
+            "Won": "5",
+            "Drawn": "4",
+            "Lost": "12",
+            "Goals": "19:40"
+        },
+        "Bremer SV": {
+            "Position": "17",
+            "Played": "19",
+            "Won": "5",
+            "Drawn": "3",
+            "Lost": "11",
+            "Goals": "34:39"
+        },
+        "Kiel II": {
+            "Position": "18",
+            "Played": "20",
+            "Won": "4",
+            "Drawn": "5",
+            "Lost": "11",
+            "Goals": "27:34"
+        }
+    }
+}

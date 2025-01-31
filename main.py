@@ -12,17 +12,22 @@ with open("links.txt", "r")as file:
         links.append(line)
 
         #scrap content
+    for i in range(len(links)):
+            
         scrapedcontent = []
-        for i in range(len(links)):
-            scrapedcontent = scrapData.scrap(link=links[i])
-        
+        scrapedcontent = scrapData.scrap(link=links[i])
+            
         #format content
         formattedcontent = format.formatOutput(listOutput=scrapedcontent)
         formattedcontent = formatNames.formatAgain(formatedData=formattedcontent)
-        
-        #conevert to JSON
-        for i in range(len(formattedcontent)):
-            print(formattedcontent[i])
+            
+        #convert to JSON
+        try:
+            jsonFile = open("data.json", "w")
+            print("JSON created")
+        except:
+            pass
+        createJSON.createJSON(originalNameLeague=scrapedcontent[0][0], convertedDataTeams=formattedcontent)
 
 
 

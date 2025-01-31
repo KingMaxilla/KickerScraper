@@ -1,28 +1,17 @@
 import json
 
 def createJSON(originalNameLeague, convertedDataTeams):
-    try:
-        jsonFile = open("data.json", "x")
-        print("JSON created")
-    except:
-        pass
-    
-    with open("data.json", "w") as jsonFile:
+    with open("data.json", "a") as jsonFile:
         data = {
-            originalNameLeague : {
-
-            }
+            originalNameLeague: {}
         }
         for i in range(len(convertedDataTeams)):
-            data[convertedDataTeams[i][2]] = {
+            data[originalNameLeague][convertedDataTeams[i][1]] = {
                 "Position": convertedDataTeams[i][0],
-                "Played": convertedDataTeams[i][3],
-                "Won": convertedDataTeams[i][4],
-                "Drawn": convertedDataTeams[i][5],
-                "Lost": convertedDataTeams[i][6],
-                "Goals": convertedDataTeams[i][7],
-                "GoalsFor": convertedDataTeams[i][8],
-                "GoalsAgainst": convertedDataTeams[i][9],
+                "Played": convertedDataTeams[i][2],
+                "Won": convertedDataTeams[i][3],
+                "Drawn": convertedDataTeams[i][4],
+                "Lost": convertedDataTeams[i][5],
+                "Goals": convertedDataTeams[i][6]
             }
-            
-         
+        json.dump(data, jsonFile, indent=4)
