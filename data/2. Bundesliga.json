@@ -1,0 +1,146 @@
+{
+    "SV": {
+        "Position": "1",
+        "Played": "19",
+        "Won": "9",
+        "Drawn": "7",
+        "Lost": "3",
+        "Goals": "43:25"
+    },
+    "K\u00f6ln ": {
+        "Position": "2",
+        "Played": "19",
+        "Won": "10",
+        "Drawn": "4",
+        "Lost": "5",
+        "Goals": "33:24"
+    },
+    "Magdeburg": {
+        "Position": "3",
+        "Played": "19",
+        "Won": "8",
+        "Drawn": "8",
+        "Lost": "3",
+        "Goals": "36:27"
+    },
+    "lautern": {
+        "Position": "4",
+        "Played": "19",
+        "Won": "9",
+        "Drawn": "5",
+        "Lost": "5",
+        "Goals": "36:30"
+    },
+    "Hannover": {
+        "Position": "5",
+        "Played": "19",
+        "Won": "9",
+        "Drawn": "4",
+        "Lost": "6",
+        "Goals": "25:19"
+    },
+    "Paderborn": {
+        "Position": "6",
+        "Played": "19",
+        "Won": "8",
+        "Drawn": "7",
+        "Lost": "4",
+        "Goals": "31:26"
+    },
+    "D\u00fcsseldorf": {
+        "Position": "7",
+        "Played": "19",
+        "Won": "8",
+        "Drawn": "6",
+        "Lost": "5",
+        "Goals": "33:27"
+    },
+    "Karlsruhe": {
+        "Position": "8",
+        "Played": "20",
+        "Won": "8",
+        "Drawn": "6",
+        "Lost": "6",
+        "Goals": "39:38"
+    },
+    "Elversberg": {
+        "Position": "9",
+        "Played": "20",
+        "Won": "8",
+        "Drawn": "5",
+        "Lost": "7",
+        "Goals": "35:30"
+    },
+    "N\u00fcrnberg": {
+        "Position": "10",
+        "Played": "20",
+        "Won": "8",
+        "Drawn": "4",
+        "Lost": "8",
+        "Goals": "35:34"
+    },
+    "Darmstadt ": {
+        "Position": "11",
+        "Played": "20",
+        "Won": "6",
+        "Drawn": "7",
+        "Lost": "7",
+        "Goals": "38:33"
+    },
+    "Hertha": {
+        "Position": "12",
+        "Played": "19",
+        "Won": "7",
+        "Drawn": "4",
+        "Lost": "8",
+        "Goals": "31:31"
+    },
+    "Schalke": {
+        "Position": "13",
+        "Played": "19",
+        "Won": "6",
+        "Drawn": "6",
+        "Lost": "7",
+        "Goals": "35:34"
+    },
+    "M\u00fcnster ": {
+        "Position": "14",
+        "Played": "19",
+        "Won": "4",
+        "Drawn": "8",
+        "Lost": "7",
+        "Goals": "22:26"
+    },
+    "F\u00fcrth": {
+        "Position": "15",
+        "Played": "19",
+        "Won": "5",
+        "Drawn": "5",
+        "Lost": "9",
+        "Goals": "27:39"
+    },
+    "Ulm ": {
+        "Position": "16",
+        "Played": "19",
+        "Won": "3",
+        "Drawn": "8",
+        "Lost": "8",
+        "Goals": "22:23"
+    },
+    "Braunschweig": {
+        "Position": "17",
+        "Played": "19",
+        "Won": "3",
+        "Drawn": "6",
+        "Lost": "10",
+        "Goals": "17:37"
+    },
+    "Regensburg ": {
+        "Position": "18",
+        "Played": "19",
+        "Won": "3",
+        "Drawn": "2",
+        "Lost": "14",
+        "Goals": "10:45"
+    }
+}

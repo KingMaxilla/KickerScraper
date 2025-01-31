@@ -1,0 +1,138 @@
+{
+    "1860 M\u00fcnchen II": {
+        "Position": "1",
+        "Played": "22",
+        "Won": "13",
+        "Drawn": "4",
+        "Lost": "5",
+        "Goals": "43:23"
+    },
+    "Memmingen": {
+        "Position": "2",
+        "Played": "21",
+        "Won": "10",
+        "Drawn": "9",
+        "Lost": "2",
+        "Goals": "31:16"
+    },
+    "Schalding-Heining": {
+        "Position": "3",
+        "Played": "20",
+        "Won": "11",
+        "Drawn": "5",
+        "Lost": "4",
+        "Goals": "30:23"
+    },
+    "SV Erlbach": {
+        "Position": "4",
+        "Played": "20",
+        "Won": "10",
+        "Drawn": "7",
+        "Lost": "3",
+        "Goals": "20:11"
+    },
+    "Kottern": {
+        "Position": "5",
+        "Played": "21",
+        "Won": "10",
+        "Drawn": "4",
+        "Lost": "7",
+        "Goals": "36:35"
+    },
+    "Pipinsried": {
+        "Position": "6",
+        "Played": "18",
+        "Won": "10",
+        "Drawn": "3",
+        "Lost": "5",
+        "Goals": "37:24"
+    },
+    "Deisenhofen": {
+        "Position": "7",
+        "Played": "20",
+        "Won": "10",
+        "Drawn": "3",
+        "Lost": "7",
+        "Goals": "38:30"
+    },
+    "N\u00f6rdlingen": {
+        "Position": "8",
+        "Played": "21",
+        "Won": "10",
+        "Drawn": "3",
+        "Lost": "8",
+        "Goals": "42:36"
+    },
+    " Augsburg": {
+        "Position": "9",
+        "Played": "20",
+        "Won": "9",
+        "Drawn": "3",
+        "Lost": "8",
+        "Goals": "31:28"
+    },
+    "Kirchansch\u00f6ring": {
+        "Position": "10",
+        "Played": "20",
+        "Won": "8",
+        "Drawn": "5",
+        "Lost": "7",
+        "Goals": "36:32"
+    },
+    "Landsberg": {
+        "Position": "11",
+        "Played": "20",
+        "Won": "9",
+        "Drawn": "1",
+        "Lost": "10",
+        "Goals": "42:27"
+    },
+    "Ismaning": {
+        "Position": "12",
+        "Played": "21",
+        "Won": "7",
+        "Drawn": "6",
+        "Lost": "8",
+        "Goals": "19:26"
+    },
+    "Heimstetten": {
+        "Position": "13",
+        "Played": "20",
+        "Won": "5",
+        "Drawn": "4",
+        "Lost": "11",
+        "Goals": "35:44"
+    },
+    "SpVgg Unterhaching II": {
+        "Position": "14",
+        "Played": "20",
+        "Won": "4",
+        "Drawn": "5",
+        "Lost": "11",
+        "Goals": "21:37"
+    },
+    "Sonthofen": {
+        "Position": "15",
+        "Played": "21",
+        "Won": "4",
+        "Drawn": "4",
+        "Lost": "13",
+        "Goals": "20:40"
+    },
+    "TSV Gr\u00fcnwald": {
+        "Position": "16",
+        "Played": "19",
+        "Won": "2",
+        "Drawn": "5",
+        "Lost": "12",
+        "Goals": "23:51"
+    },
+    "Rain": {
+        "Position": "17",
+        "Played": "18",
+        "Won": "2",
+        "Drawn": "3",
+        "Lost": "13",
+        "Goals": "19:40"
+    }
+}

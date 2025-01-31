@@ -1,0 +1,146 @@
+{
+    "TSV Schott Mainz": {
+        "Position": "1",
+        "Played": "20",
+        "Won": "16",
+        "Drawn": "3",
+        "Lost": "1",
+        "Goals": "63:18"
+    },
+    "1. FC Kaiserslautern II": {
+        "Position": "2",
+        "Played": "20",
+        "Won": "15",
+        "Drawn": "2",
+        "Lost": "3",
+        "Goals": "81:29"
+    },
+    "FK Pirmasens": {
+        "Position": "3",
+        "Played": "19",
+        "Won": "14",
+        "Drawn": "4",
+        "Lost": "1",
+        "Goals": "52:12"
+    },
+    "TuS Koblenz": {
+        "Position": "4",
+        "Played": "20",
+        "Won": "15",
+        "Drawn": "1",
+        "Lost": "4",
+        "Goals": "41:17"
+    },
+    "SV Gonsenheim": {
+        "Position": "5",
+        "Played": "20",
+        "Won": "10",
+        "Drawn": "6",
+        "Lost": "4",
+        "Goals": "49:30"
+    },
+    " Koblenz": {
+        "Position": "6",
+        "Played": "20",
+        "Won": "9",
+        "Drawn": "4",
+        "Lost": "7",
+        "Goals": "34:29"
+    },
+    "Wormatia Worms": {
+        "Position": "7",
+        "Played": "20",
+        "Won": "8",
+        "Drawn": "3",
+        "Lost": "9",
+        "Goals": "37:41"
+    },
+    "FV Engers": {
+        "Position": "8",
+        "Played": "19",
+        "Won": "8",
+        "Drawn": "1",
+        "Lost": "10",
+        "Goals": "35:43"
+    },
+    " Karbach": {
+        "Position": "9",
+        "Played": "19",
+        "Won": "6",
+        "Drawn": "6",
+        "Lost": "7",
+        "Goals": "25:25"
+    },
+    "SV Viktoria Herxheim": {
+        "Position": "10",
+        "Played": "20",
+        "Won": "7",
+        "Drawn": "2",
+        "Lost": "11",
+        "Goals": "27:48"
+    },
+    "FV 07 Diefflen": {
+        "Position": "11",
+        "Played": "20",
+        "Won": "6",
+        "Drawn": "4",
+        "Lost": "10",
+        "Goals": "38:44"
+    },
+    "Arminia Ludwigshafen": {
+        "Position": "12",
+        "Played": "20",
+        "Won": "7",
+        "Drawn": "1",
+        "Lost": "12",
+        "Goals": "29:36"
+    },
+    "Eisbachtaler Sportfreunde": {
+        "Position": "13",
+        "Played": "19",
+        "Won": "6",
+        "Drawn": "3",
+        "Lost": "10",
+        "Goals": "28:44"
+    },
+    "FV Eppelborn": {
+        "Position": "14",
+        "Played": "20",
+        "Won": "7",
+        "Drawn": "0",
+        "Lost": "13",
+        "Goals": "34:71"
+    },
+    "SC Idar-Oberstein": {
+        "Position": "15",
+        "Played": "20",
+        "Won": "5",
+        "Drawn": "3",
+        "Lost": "12",
+        "Goals": "25:41"
+    },
+    "TuS Mechtersheim": {
+        "Position": "16",
+        "Played": "20",
+        "Won": "4",
+        "Drawn": "5",
+        "Lost": "11",
+        "Goals": "23:49"
+    },
+    "SV Morlautern": {
+        "Position": "17",
+        "Played": "20",
+        "Won": "5",
+        "Drawn": "1",
+        "Lost": "14",
+        "Goals": "34:57"
+    },
+    "SV Auersmacher": {
+        "Position": "18",
+        "Played": "20",
+        "Won": "4",
+        "Drawn": "3",
+        "Lost": "13",
+        "Goals": "30:51"
+    }
+}

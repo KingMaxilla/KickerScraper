@@ -1,0 +1,130 @@
+{
+    "FC Kilia 02 Kiel": {
+        "Position": "1",
+        "Played": "20",
+        "Won": "16",
+        "Drawn": "4",
+        "Lost": "0",
+        "Goals": "71:25"
+    },
+    "Heider SV": {
+        "Position": "2",
+        "Played": "19",
+        "Won": "14",
+        "Drawn": "3",
+        "Lost": "2",
+        "Goals": "58:24"
+    },
+    "SV Eichede": {
+        "Position": "3",
+        "Played": "19",
+        "Won": "12",
+        "Drawn": "6",
+        "Lost": "1",
+        "Goals": "51:17"
+    },
+    " Neum\u00fcnster": {
+        "Position": "4",
+        "Played": "19",
+        "Won": "10",
+        "Drawn": "5",
+        "Lost": "4",
+        "Goals": "50:26"
+    },
+    "Eckernf\u00f6rder SV": {
+        "Position": "5",
+        "Played": "19",
+        "Won": "7",
+        "Drawn": "7",
+        "Lost": "5",
+        "Goals": "43:37"
+    },
+    "Oldenburger SV": {
+        "Position": "6",
+        "Played": "20",
+        "Won": "8",
+        "Drawn": "4",
+        "Lost": "8",
+        "Goals": "49:46"
+    },
+    "TuS Rotenhof": {
+        "Position": "7",
+        "Played": "20",
+        "Won": "8",
+        "Drawn": "4",
+        "Lost": "8",
+        "Goals": "45:43"
+    },
+    "TSV Nordmark Satrup": {
+        "Position": "8",
+        "Played": "19",
+        "Won": "8",
+        "Drawn": "3",
+        "Lost": "8",
+        "Goals": "42:33"
+    },
+    "Eutiner Sp": {
+        "Position": "9",
+        "Played": "20",
+        "Won": "7",
+        "Drawn": "4",
+        "Lost": "9",
+        "Goals": "35:34"
+    },
+    "Reinfeld": {
+        "Position": "10",
+        "Played": "19",
+        "Won": "6",
+        "Drawn": "5",
+        "Lost": "8",
+        "Goals": "30:37"
+    },
+    "TSB Flensburg": {
+        "Position": "11",
+        "Played": "19",
+        "Won": "6",
+        "Drawn": "3",
+        "Lost": "10",
+        "Goals": "29:44"
+    },
+    "SpVg Eidertal Molfsee": {
+        "Position": "12",
+        "Played": "20",
+        "Won": "6",
+        "Drawn": "3",
+        "Lost": "11",
+        "Goals": "32:63"
+    },
+    "VfR Neum\u00fcnster": {
+        "Position": "13",
+        "Played": "20",
+        "Won": "5",
+        "Drawn": "4",
+        "Lost": "11",
+        "Goals": "34:50"
+    },
+    "MTSV Hohenwestedt": {
+        "Position": "14",
+        "Played": "17",
+        "Won": "5",
+        "Drawn": "3",
+        "Lost": "9",
+        "Goals": "27:42"
+    },
+    "VfB L\u00fcbeck II": {
+        "Position": "15",
+        "Played": "19",
+        "Won": "3",
+        "Drawn": "3",
+        "Lost": "13",
+        "Goals": "23:54"
+    },
+    "Dornbreite L\u00fcbeck": {
+        "Position": "16",
+        "Played": "19",
+        "Won": "2",
+        "Drawn": "1",
+        "Lost": "16",
+        "Goals": "20:64"
+    }
+}

@@ -6,3 +6,17 @@ https://www.kicker.de/regionalliga-nordost/tabelle
 https://www.kicker.de/regionalliga-west/tabelle
 https://www.kicker.de/regionalliga-suedwest/tabelle
 https://www.kicker.de/regionalliga-bayern/tabelle
+https://www.kicker.de/bayernliga-nord-fb-1/tabelle
+https://www.kicker.de/bayernliga-sued-fb-1/tabelle
+https://www.kicker.de/bremen-liga/tabelle
+https://www.kicker.de/hessenliga/tabelle
+https://www.kicker.de/mittelrheinliga-fb-1/tabelle
+https://www.kicker.de/oberliga-baden-wuerttemberg/tabelle
+https://www.kicker.de/oberliga-hamburg/tabelle
+https://www.kicker.de/oberliga-niederrhein-fb-1/tabelle
+https://www.kicker.de/oberliga-niedersachsen-fb-1/tabelle
+https://www.kicker.de/oberliga-nofv-nord/tabelle
+https://www.kicker.de/oberliga-nofv-sued/tabelle
+https://www.kicker.de/oberliga-rheinland-pfalzsaar-fb-1/tabelle
+https://www.kicker.de/schleswig-holstein-liga/tabelle
+https://www.kicker.de/oberliga-westfalen-fb-1/tabelle

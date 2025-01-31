@@ -1,0 +1,154 @@
+{
+    "VfL Bochum II": {
+        "Position": "1",
+        "Played": "18",
+        "Won": "13",
+        "Drawn": "3",
+        "Lost": "2",
+        "Goals": "46:19"
+    },
+    " Dortmund": {
+        "Position": "2",
+        "Played": "18",
+        "Won": "10",
+        "Drawn": "2",
+        "Lost": "6",
+        "Goals": "41:28"
+    },
+    " Siegen": {
+        "Position": "3",
+        "Played": "15",
+        "Won": "9",
+        "Drawn": "4",
+        "Lost": "2",
+        "Goals": "30:13"
+    },
+    "SC Verl II": {
+        "Position": "4",
+        "Played": "18",
+        "Won": "9",
+        "Drawn": "3",
+        "Lost": "6",
+        "Goals": "32:21"
+    },
+    " Schermbeck": {
+        "Position": "5",
+        "Played": "18",
+        "Won": "8",
+        "Drawn": "6",
+        "Lost": "4",
+        "Goals": "37:28"
+    },
+    "Westfalia Rhynern": {
+        "Position": "6",
+        "Played": "17",
+        "Won": "10",
+        "Drawn": "0",
+        "Lost": "7",
+        "Goals": "31:23"
+    },
+    "Preu\u00dfen M\u00fcnster II": {
+        "Position": "7",
+        "Played": "17",
+        "Won": "9",
+        "Drawn": "2",
+        "Lost": "6",
+        "Goals": "42:30"
+    },
+    "1. FC Gievenbeck": {
+        "Position": "8",
+        "Played": "17",
+        "Won": "8",
+        "Drawn": "5",
+        "Lost": "4",
+        "Goals": "34:24"
+    },
+    "Eintracht Rheine": {
+        "Position": "9",
+        "Played": "18",
+        "Won": "9",
+        "Drawn": "0",
+        "Lost": "9",
+        "Goals": "24:23"
+    },
+    "Rot Weiss Ahlen": {
+        "Position": "10",
+        "Played": "17",
+        "Won": "6",
+        "Drawn": "6",
+        "Lost": "5",
+        "Goals": "37:37"
+    },
+    "SV Lippstadt 08": {
+        "Position": "11",
+        "Played": "17",
+        "Won": "7",
+        "Drawn": "2",
+        "Lost": "8",
+        "Goals": "27:28"
+    },
+    "SpVgg Erkenschwick": {
+        "Position": "12",
+        "Played": "17",
+        "Won": "5",
+        "Drawn": "7",
+        "Lost": "5",
+        "Goals": "31:27"
+    },
+    "SpVgg Vreden": {
+        "Position": "13",
+        "Played": "18",
+        "Won": "7",
+        "Drawn": "1",
+        "Lost": "10",
+        "Goals": "25:27"
+    },
+    "Wattenscheid 09": {
+        "Position": "14",
+        "Played": "16",
+        "Won": "6",
+        "Drawn": "3",
+        "Lost": "7",
+        "Goals": "26:30"
+    },
+    "TuS Ennepetal": {
+        "Position": "15",
+        "Played": "17",
+        "Won": "5",
+        "Drawn": "4",
+        "Lost": "8",
+        "Goals": "29:33"
+    },
+    "Victoria Clarholz": {
+        "Position": "16",
+        "Played": "18",
+        "Won": "5",
+        "Drawn": "4",
+        "Lost": "9",
+        "Goals": "20:28"
+    },
+    "Finnentrop-Bamenohl": {
+        "Position": "17",
+        "Played": "18",
+        "Won": "5",
+        "Drawn": "1",
+        "Lost": "12",
+        "Goals": "24:49"
+    },
+    "SV Concordia Wiemelhausen": {
+        "Position": "18",
+        "Played": "18",
+        "Won": "4",
+        "Drawn": "2",
+        "Lost": "12",
+        "Goals": "28:55"
+    },
+    "TuS B\u00f6vinghausen": {
+        "Position": "19",
+        "Played": "18",
+        "Won": "2",
+        "Drawn": "1",
+        "Lost": "15",
+        "Goals": "20:61"
+    }
+}

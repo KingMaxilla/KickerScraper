@@ -10,12 +10,6 @@ links = []
 with open("links.txt", "r")as file:
     for line in file:
         links.append(line)
-
-    try:
-        jsonFile = open("data.json", "w")
-        print("JSON created")
-    except:
-        pass
     
     #scrap content
     for i in range(len(links)):

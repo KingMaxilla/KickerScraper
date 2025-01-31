@@ -1,0 +1,146 @@
+{
+    "Bayern": {
+        "Position": "1",
+        "Played": "19",
+        "Won": "15",
+        "Drawn": "3",
+        "Lost": "1",
+        "Goals": "58:16"
+    },
+    "Leverkusen ": {
+        "Position": "2",
+        "Played": "19",
+        "Won": "12",
+        "Drawn": "6",
+        "Lost": "1",
+        "Goals": "46:26"
+    },
+    "Frankfurt": {
+        "Position": "3",
+        "Played": "19",
+        "Won": "11",
+        "Drawn": "4",
+        "Lost": "4",
+        "Goals": "44:26"
+    },
+    "Stuttgart": {
+        "Position": "4",
+        "Played": "19",
+        "Won": "9",
+        "Drawn": "5",
+        "Lost": "5",
+        "Goals": "36:28"
+    },
+    "Leipzig": {
+        "Position": "5",
+        "Played": "19",
+        "Won": "9",
+        "Drawn": "5",
+        "Lost": "5",
+        "Goals": "34:29"
+    },
+    "Mainz": {
+        "Position": "6",
+        "Played": "20",
+        "Won": "9",
+        "Drawn": "4",
+        "Lost": "7",
+        "Goals": "33:24"
+    },
+    "Bremen": {
+        "Position": "7",
+        "Played": "20",
+        "Won": "8",
+        "Drawn": "6",
+        "Lost": "6",
+        "Goals": "34:36"
+    },
+    "Wolfsburg": {
+        "Position": "8",
+        "Played": "19",
+        "Won": "8",
+        "Drawn": "4",
+        "Lost": "7",
+        "Goals": "42:34"
+    },
+    "gladbach": {
+        "Position": "9",
+        "Played": "19",
+        "Won": "8",
+        "Drawn": "3",
+        "Lost": "8",
+        "Goals": "30:29"
+    },
+    "Freiburg": {
+        "Position": "10",
+        "Played": "19",
+        "Won": "8",
+        "Drawn": "3",
+        "Lost": "8",
+        "Goals": "26:36"
+    },
+    "Dortmund": {
+        "Position": "11",
+        "Played": "19",
+        "Won": "7",
+        "Drawn": "5",
+        "Lost": "7",
+        "Goals": "34:33"
+    },
+    "Augsburg": {
+        "Position": "12",
+        "Played": "19",
+        "Won": "7",
+        "Drawn": "4",
+        "Lost": "8",
+        "Goals": "23:34"
+    },
+    "St. Pauli ": {
+        "Position": "13",
+        "Played": "19",
+        "Won": "6",
+        "Drawn": "2",
+        "Lost": "11",
+        "Goals": "17:21"
+    },
+    "Union": {
+        "Position": "14",
+        "Played": "19",
+        "Won": "5",
+        "Drawn": "5",
+        "Lost": "9",
+        "Goals": "16:27"
+    },
+    "Hoffenheim": {
+        "Position": "15",
+        "Played": "19",
+        "Won": "4",
+        "Drawn": "6",
+        "Lost": "9",
+        "Goals": "25:37"
+    },
+    "Heidenheim": {
+        "Position": "16",
+        "Played": "19",
+        "Won": "4",
+        "Drawn": "2",
+        "Lost": "13",
+        "Goals": "24:40"
+    },
+    "Kiel ": {
+        "Position": "17",
+        "Played": "19",
+        "Won": "3",
+        "Drawn": "3",
+        "Lost": "13",
+        "Goals": "28:48"
+    },
+    "Bochum": {
+        "Position": "18",
+        "Played": "19",
+        "Won": "2",
+        "Drawn": "4",
+        "Lost": "13",
+        "Goals": "17:43"
+    }
+}

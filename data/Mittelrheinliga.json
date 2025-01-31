@@ -1,0 +1,130 @@
+{
+    "Bonner SC": {
+        "Position": "1",
+        "Played": "15",
+        "Won": "13",
+        "Drawn": "1",
+        "Lost": "1",
+        "Goals": "49:13"
+    },
+    "SSV Merten": {
+        "Position": "2",
+        "Played": "15",
+        "Won": "9",
+        "Drawn": "1",
+        "Lost": "5",
+        "Goals": "35:25"
+    },
+    "FC Teutonia Weiden": {
+        "Position": "3",
+        "Played": "13",
+        "Won": "8",
+        "Drawn": "3",
+        "Lost": "2",
+        "Goals": "42:25"
+    },
+    " K\u00f6nigsdorf": {
+        "Position": "4",
+        "Played": "15",
+        "Won": "8",
+        "Drawn": "3",
+        "Lost": "4",
+        "Goals": "26:18"
+    },
+    "FC Wegberg-Beeck": {
+        "Position": "5",
+        "Played": "15",
+        "Won": "8",
+        "Drawn": "1",
+        "Lost": "6",
+        "Goals": "34:22"
+    },
+    "Siegburger SV": {
+        "Position": "6",
+        "Played": "15",
+        "Won": "8",
+        "Drawn": "1",
+        "Lost": "6",
+        "Goals": "28:28"
+    },
+    "SpVg Frechen": {
+        "Position": "7",
+        "Played": "15",
+        "Won": "7",
+        "Drawn": "3",
+        "Lost": "5",
+        "Goals": "27:32"
+    },
+    "Fortuna K\u00f6ln II": {
+        "Position": "8",
+        "Played": "14",
+        "Won": "7",
+        "Drawn": "1",
+        "Lost": "6",
+        "Goals": "29:18"
+    },
+    "H\u00fcrth": {
+        "Position": "9",
+        "Played": "15",
+        "Won": "5",
+        "Drawn": "6",
+        "Lost": "4",
+        "Goals": "24:20"
+    },
+    "Pesch": {
+        "Position": "10",
+        "Played": "15",
+        "Won": "5",
+        "Drawn": "4",
+        "Lost": "6",
+        "Goals": "28:23"
+    },
+    "Bergisch Gladbach 09": {
+        "Position": "11",
+        "Played": "15",
+        "Won": "3",
+        "Drawn": "5",
+        "Lost": "7",
+        "Goals": "26:36"
+    },
+    "SpVgg Porz": {
+        "Position": "12",
+        "Played": "15",
+        "Won": "4",
+        "Drawn": "2",
+        "Lost": "9",
+        "Goals": "25:40"
+    },
+    "FV Bonn-Endenich": {
+        "Position": "13",
+        "Played": "15",
+        "Won": "4",
+        "Drawn": "1",
+        "Lost": "10",
+        "Goals": "23:48"
+    },
+    "FC Hennef": {
+        "Position": "14",
+        "Played": "14",
+        "Won": "3",
+        "Drawn": "3",
+        "Lost": "8",
+        "Goals": "15:29"
+    },
+    "Union Schafhausen": {
+        "Position": "15",
+        "Played": "15",
+        "Won": "3",
+        "Drawn": "3",
+        "Lost": "9",
+        "Goals": "15:35"
+    },
+    "Vichttal": {
+        "Position": "16",
+        "Played": "15",
+        "Won": "3",
+        "Drawn": "2",
+        "Lost": "10",
+        "Goals": "20:34"
+    }
+}

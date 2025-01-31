@@ -1,0 +1,130 @@
+{
+    "Lichtenberg 47": {
+        "Position": "1",
+        "Played": "16",
+        "Won": "12",
+        "Drawn": "4",
+        "Lost": "0",
+        "Goals": "45:12"
+    },
+    "BFC Preussen": {
+        "Position": "2",
+        "Played": "16",
+        "Won": "11",
+        "Drawn": "3",
+        "Lost": "2",
+        "Goals": "40:13"
+    },
+    "Hansa Rostock II": {
+        "Position": "3",
+        "Played": "16",
+        "Won": "9",
+        "Drawn": "2",
+        "Lost": "5",
+        "Goals": "48:25"
+    },
+    "Eintracht Mahlsdorf": {
+        "Position": "4",
+        "Played": "16",
+        "Won": "8",
+        "Drawn": "5",
+        "Lost": "3",
+        "Goals": "39:18"
+    },
+    "Tasmania Berlin": {
+        "Position": "5",
+        "Played": "16",
+        "Won": "8",
+        "Drawn": "3",
+        "Lost": "5",
+        "Goals": "28:22"
+    },
+    "TuS Makkabi Berlin": {
+        "Position": "6",
+        "Played": "15",
+        "Won": "7",
+        "Drawn": "5",
+        "Lost": "3",
+        "Goals": "30:18"
+    },
+    "Sparta Lichtenberg": {
+        "Position": "7",
+        "Played": "16",
+        "Won": "7",
+        "Drawn": "5",
+        "Lost": "4",
+        "Goals": "35:30"
+    },
+    "Tennis Borussia Berlin": {
+        "Position": "8",
+        "Played": "15",
+        "Won": "8",
+        "Drawn": "1",
+        "Lost": "6",
+        "Goals": "40:34"
+    },
+    "Neustrelitz": {
+        "Position": "9",
+        "Played": "15",
+        "Won": "7",
+        "Drawn": "2",
+        "Lost": "6",
+        "Goals": "21:20"
+    },
+    "FC Anker Wismar": {
+        "Position": "10",
+        "Played": "16",
+        "Won": "7",
+        "Drawn": "1",
+        "Lost": "8",
+        "Goals": "31:32"
+    },
+    "Berliner AK 07": {
+        "Position": "11",
+        "Played": "16",
+        "Won": "5",
+        "Drawn": "4",
+        "Lost": "7",
+        "Goals": "24:21"
+    },
+    "FSV Optik Rathenow": {
+        "Position": "12",
+        "Played": "15",
+        "Won": "5",
+        "Drawn": "4",
+        "Lost": "6",
+        "Goals": "25:28"
+    },
+    "SC Staaken": {
+        "Position": "13",
+        "Played": "16",
+        "Won": "5",
+        "Drawn": "0",
+        "Lost": "11",
+        "Goals": "19:41"
+    },
+    "SG Dynamo Schwerin": {
+        "Position": "14",
+        "Played": "16",
+        "Won": "4",
+        "Drawn": "2",
+        "Lost": "10",
+        "Goals": "26:39"
+    },
+    "SV Gr\u00fcn-Wei\u00df Ahrensfelde": {
+        "Position": "15",
+        "Played": "16",
+        "Won": "1",
+        "Drawn": "3",
+        "Lost": "12",
+        "Goals": "17:35"
+    },
+    "Rostocker FC": {
+        "Position": "16",
+        "Played": "16",
+        "Won": "0",
+        "Drawn": "0",
+        "Lost": "16",
+        "Goals": "5:85"
+    }
+}

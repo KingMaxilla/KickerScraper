@@ -1,0 +1,130 @@
+{
+    "Hemelingen": {
+        "Position": "1",
+        "Played": "17",
+        "Won": "13",
+        "Drawn": "2",
+        "Lost": "2",
+        "Goals": "53:19"
+    },
+    "Bremerhaven": {
+        "Position": "2",
+        "Played": "17",
+        "Won": "11",
+        "Drawn": "4",
+        "Lost": "2",
+        "Goals": "49:32"
+    },
+    "Brinkumer SV": {
+        "Position": "3",
+        "Played": "17",
+        "Won": "11",
+        "Drawn": "2",
+        "Lost": "4",
+        "Goals": "50:23"
+    },
+    "Geestem\u00fcnde": {
+        "Position": "4",
+        "Played": "16",
+        "Won": "9",
+        "Drawn": "2",
+        "Lost": "5",
+        "Goals": "49:33"
+    },
+    "TV Eiche Horn": {
+        "Position": "5",
+        "Played": "17",
+        "Won": "8",
+        "Drawn": "5",
+        "Lost": "4",
+        "Goals": "40:33"
+    },
+    " Bremen": {
+        "Position": "6",
+        "Played": "17",
+        "Won": "8",
+        "Drawn": "3",
+        "Lost": "6",
+        "Goals": "49:38"
+    },
+    "Blumenthal": {
+        "Position": "7",
+        "Played": "17",
+        "Won": "8",
+        "Drawn": "2",
+        "Lost": "7",
+        "Goals": "43:40"
+    },
+    "TS Woltmershausen": {
+        "Position": "8",
+        "Played": "17",
+        "Won": "8",
+        "Drawn": "1",
+        "Lost": "8",
+        "Goals": "29:38"
+    },
+    "Neustadt": {
+        "Position": "9",
+        "Played": "17",
+        "Won": "6",
+        "Drawn": "4",
+        "Lost": "7",
+        "Goals": "34:40"
+    },
+    "Oberneuland": {
+        "Position": "10",
+        "Played": "16",
+        "Won": "6",
+        "Drawn": "2",
+        "Lost": "8",
+        "Goals": "30:31"
+    },
+    "Werder Bremen III": {
+        "Position": "11",
+        "Played": "16",
+        "Won": "4",
+        "Drawn": "5",
+        "Lost": "7",
+        "Goals": "32:34"
+    },
+    "Vatan Sport": {
+        "Position": "12",
+        "Played": "17",
+        "Won": "4",
+        "Drawn": "5",
+        "Lost": "8",
+        "Goals": "37:50"
+    },
+    "Tura Bremen": {
+        "Position": "13",
+        "Played": "16",
+        "Won": "5",
+        "Drawn": "2",
+        "Lost": "9",
+        "Goals": "28:47"
+    },
+    "Aumund-Vegesack": {
+        "Position": "14",
+        "Played": "16",
+        "Won": "5",
+        "Drawn": "1",
+        "Lost": "10",
+        "Goals": "33:42"
+    },
+    "Habenhause": {
+        "Position": "15",
+        "Played": "16",
+        "Won": "4",
+        "Drawn": "4",
+        "Lost": "8",
+        "Goals": "35:45"
+    },
+    "SC Vahr-Blockdiek": {
+        "Position": "16",
+        "Played": "17",
+        "Won": "1",
+        "Drawn": "0",
+        "Lost": "16",
+        "Goals": "22:68"
+    }
+}
