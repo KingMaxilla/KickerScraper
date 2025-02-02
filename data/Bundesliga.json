@@ -1,43 +1,43 @@
 {
     "Bayern": {
         "Position": "1",
-        "Played": "19",
-        "Won": "15",
+        "Played": "20",
+        "Won": "16",
         "Drawn": "3",
         "Lost": "1",
-        "Goals": "58:16"
+        "Goals": "62:19"
     },
     "Leverkusen ": {
         "Position": "2",
-        "Played": "19",
-        "Won": "12",
+        "Played": "20",
+        "Won": "13",
         "Drawn": "6",
         "Lost": "1",
-        "Goals": "46:26"
+        "Goals": "49:27"
     },
     "Frankfurt": {
         "Position": "3",
-        "Played": "19",
+        "Played": "20",
         "Won": "11",
-        "Drawn": "4",
-        "Lost": "4",
-        "Goals": "44:26"
-    },
-    "Stuttgart": {
-        "Position": "4",
-        "Played": "19",
-        "Won": "9",
         "Drawn": "5",
-        "Lost": "5",
-        "Goals": "36:28"
+        "Lost": "4",
+        "Goals": "45:27"
     },
     "Leipzig": {
-        "Position": "5",
-        "Played": "19",
+        "Position": "4",
+        "Played": "20",
         "Won": "9",
-        "Drawn": "5",
+        "Drawn": "6",
         "Lost": "5",
         "Goals": "34:29"
+    },
+    "Stuttgart": {
+        "Position": "5",
+        "Played": "20",
+        "Won": "9",
+        "Drawn": "5",
+        "Lost": "6",
+        "Goals": "37:30"
     },
     "Mainz": {
         "Position": "6",
@@ -47,100 +47,100 @@
         "Lost": "7",
         "Goals": "33:24"
     },
-    "Bremen": {
+    "gladbach": {
         "Position": "7",
+        "Played": "20",
+        "Won": "9",
+        "Drawn": "3",
+        "Lost": "8",
+        "Goals": "32:30"
+    },
+    "Bremen": {
+        "Position": "8",
         "Played": "20",
         "Won": "8",
         "Drawn": "6",
         "Lost": "6",
         "Goals": "34:36"
     },
-    "Wolfsburg": {
-        "Position": "8",
-        "Played": "19",
-        "Won": "8",
-        "Drawn": "4",
-        "Lost": "7",
-        "Goals": "42:34"
-    },
-    "gladbach": {
-        "Position": "9",
-        "Played": "19",
-        "Won": "8",
-        "Drawn": "3",
-        "Lost": "8",
-        "Goals": "30:29"
-    },
     "Freiburg": {
-        "Position": "10",
-        "Played": "19",
-        "Won": "8",
+        "Position": "9",
+        "Played": "20",
+        "Won": "9",
         "Drawn": "3",
         "Lost": "8",
-        "Goals": "26:36"
+        "Goals": "27:36"
+    },
+    "Wolfsburg": {
+        "Position": "10",
+        "Played": "20",
+        "Won": "8",
+        "Drawn": "5",
+        "Lost": "7",
+        "Goals": "43:35"
     },
     "Dortmund": {
         "Position": "11",
-        "Played": "19",
-        "Won": "7",
+        "Played": "20",
+        "Won": "8",
         "Drawn": "5",
         "Lost": "7",
-        "Goals": "34:33"
+        "Goals": "36:34"
     },
     "Augsburg": {
         "Position": "12",
-        "Played": "19",
+        "Played": "20",
         "Won": "7",
-        "Drawn": "4",
+        "Drawn": "5",
         "Lost": "8",
-        "Goals": "23:34"
+        "Goals": "24:35"
     },
     "St. Pauli ": {
         "Position": "13",
-        "Played": "19",
+        "Played": "20",
         "Won": "6",
-        "Drawn": "2",
+        "Drawn": "3",
         "Lost": "11",
-        "Goals": "17:21"
+        "Goals": "18:22"
     },
     "Union": {
         "Position": "14",
-        "Played": "19",
+        "Played": "20",
         "Won": "5",
-        "Drawn": "5",
+        "Drawn": "6",
         "Lost": "9",
         "Goals": "16:27"
     },
     "Hoffenheim": {
         "Position": "15",
-        "Played": "19",
+        "Played": "20",
         "Won": "4",
         "Drawn": "6",
-        "Lost": "9",
-        "Goals": "25:37"
+        "Lost": "10",
+        "Goals": "26:40"
     },
     "Heidenheim": {
         "Position": "16",
-        "Played": "19",
+        "Played": "20",
         "Won": "4",
         "Drawn": "2",
-        "Lost": "13",
-        "Goals": "24:40"
+        "Lost": "14",
+        "Goals": "25:42"
     },
     "Kiel ": {
         "Position": "17",
-        "Played": "19",
+        "Played": "20",
         "Won": "3",
         "Drawn": "3",
-        "Lost": "13",
-        "Goals": "28:48"
+        "Lost": "14",
+        "Goals": "31:52"
     },
     "Bochum": {
         "Position": "18",
-        "Played": "19",
+        "Played": "20",
         "Won": "2",
         "Drawn": "4",
-        "Lost": "13",
-        "Goals": "17:43"
+        "Lost": "14",
+        "Goals": "17:44"
     }
 }

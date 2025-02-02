@@ -1,0 +1,146 @@
+{
+    "SD Croatia Berlin": {
+        "Position": "1",
+        "Played": "17",
+        "Won": "12",
+        "Drawn": "2",
+        "Lost": "3",
+        "Goals": "33:18"
+    },
+    "SFC Stern 1900 Berlin": {
+        "Position": "2",
+        "Played": "17",
+        "Won": "10",
+        "Drawn": "7",
+        "Lost": "0",
+        "Goals": "49:20"
+    },
+    "Reinickendorfer F\u00fcchse": {
+        "Position": "3",
+        "Played": "17",
+        "Won": "11",
+        "Drawn": "3",
+        "Lost": "3",
+        "Goals": "44:17"
+    },
+    "VSG Altglienicke II": {
+        "Position": "4",
+        "Played": "17",
+        "Won": "9",
+        "Drawn": "5",
+        "Lost": "3",
+        "Goals": "41:29"
+    },
+    "1. FC Wilmersdorf": {
+        "Position": "5",
+        "Played": "17",
+        "Won": "9",
+        "Drawn": "4",
+        "Lost": "4",
+        "Goals": "41:21"
+    },
+    "FSV Spandauer Kickers 75": {
+        "Position": "6",
+        "Played": "17",
+        "Won": "8",
+        "Drawn": "5",
+        "Lost": "4",
+        "Goals": "38:27"
+    },
+    "TSV Mariendorf 1897": {
+        "Position": "7",
+        "Played": "17",
+        "Won": "7",
+        "Drawn": "6",
+        "Lost": "4",
+        "Goals": "37:32"
+    },
+    "SV Empor Berlin": {
+        "Position": "8",
+        "Played": "17",
+        "Won": "8",
+        "Drawn": "1",
+        "Lost": "8",
+        "Goals": "39:34"
+    },
+    "Fortuna Biesdorf": {
+        "Position": "9",
+        "Played": "17",
+        "Won": "7",
+        "Drawn": "3",
+        "Lost": "7",
+        "Goals": "31:30"
+    },
+    "Frohnauer SC": {
+        "Position": "10",
+        "Played": "17",
+        "Won": "6",
+        "Drawn": "4",
+        "Lost": "7",
+        "Goals": "40:33"
+    },
+    "Berliner SC": {
+        "Position": "11",
+        "Played": "17",
+        "Won": "5",
+        "Drawn": "5",
+        "Lost": "7",
+        "Goals": "25:30"
+    },
+    "Polar Pinguin": {
+        "Position": "12",
+        "Played": "17",
+        "Won": "6",
+        "Drawn": "2",
+        "Lost": "9",
+        "Goals": "27:39"
+    },
+    "Berlin T\u00fcrkspor": {
+        "Position": "13",
+        "Played": "17",
+        "Won": "5",
+        "Drawn": "4",
+        "Lost": "8",
+        "Goals": "41:46"
+    },
+    "SV Blau-Wei\u00df Hohen Neuendorf": {
+        "Position": "14",
+        "Played": "17",
+        "Won": "6",
+        "Drawn": "1",
+        "Lost": "10",
+        "Goals": "18:40"
+    },
+    "Spandauer SC Teutonia 99": {
+        "Position": "15",
+        "Played": "17",
+        "Won": "4",
+        "Drawn": "4",
+        "Lost": "9",
+        "Goals": "26:40"
+    },
+    "SC Charlottenburg": {
+        "Position": "16",
+        "Played": "17",
+        "Won": "3",
+        "Drawn": "6",
+        "Lost": "8",
+        "Goals": "14:26"
+    },
+    "Sportfreunde Johannistal": {
+        "Position": "17",
+        "Played": "17",
+        "Won": "2",
+        "Drawn": "2",
+        "Lost": "13",
+        "Goals": "16:45"
+    },
+    "Berlin Hilalspor 1987": {
+        "Position": "18",
+        "Played": "17",
+        "Won": "2",
+        "Drawn": "2",
+        "Lost": "13",
+        "Goals": "25:58"
+    }
+}

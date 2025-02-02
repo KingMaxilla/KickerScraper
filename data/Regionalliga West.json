@@ -15,45 +15,45 @@
         "Lost": "5",
         "Goals": "44:27"
     },
-    "ladbach II": {
+    "Lotte ": {
         "Position": "3",
+        "Played": "19",
+        "Won": "12",
+        "Drawn": "2",
+        "Lost": "5",
+        "Goals": "42:25"
+    },
+    " K\u00f6ln": {
+        "Position": "4",
+        "Played": "19",
+        "Won": "11",
+        "Drawn": "5",
+        "Lost": "3",
+        "Goals": "31:20"
+    },
+    "ladbach II": {
+        "Position": "5",
         "Played": "19",
         "Won": "11",
         "Drawn": "4",
         "Lost": "4",
         "Goals": "42:25"
     },
-    " K\u00f6ln": {
-        "Position": "4",
-        "Played": "18",
-        "Won": "11",
-        "Drawn": "4",
-        "Lost": "3",
-        "Goals": "31:20"
-    },
-    "Lotte ": {
-        "Position": "5",
-        "Played": "18",
-        "Won": "11",
-        "Drawn": "2",
-        "Lost": "5",
-        "Goals": "40:25"
-    },
     "R\u00f6dinghausen": {
         "Position": "6",
-        "Played": "18",
+        "Played": "19",
         "Won": "10",
-        "Drawn": "3",
+        "Drawn": "4",
         "Lost": "5",
         "Goals": "36:24"
     },
     "K\u00f6ln II": {
         "Position": "7",
-        "Played": "19",
+        "Played": "20",
         "Won": "8",
         "Drawn": "7",
-        "Lost": "4",
-        "Goals": "32:21"
+        "Lost": "5",
+        "Goals": "32:23"
     },
     "Paderborn ": {
         "Position": "8",
@@ -63,84 +63,84 @@
         "Lost": "7",
         "Goals": "39:32"
     },
-    "G\u00fctersloh": {
+    "1. FC D\u00fcren": {
         "Position": "9",
+        "Played": "20",
+        "Won": "7",
+        "Drawn": "7",
+        "Lost": "6",
+        "Goals": "24:28"
+    },
+    "G\u00fctersloh": {
+        "Position": "10",
         "Played": "19",
         "Won": "8",
         "Drawn": "3",
         "Lost": "8",
         "Goals": "28:28"
     },
-    "1. FC D\u00fcren": {
-        "Position": "10",
-        "Played": "19",
-        "Won": "7",
-        "Drawn": "6",
-        "Lost": "6",
-        "Goals": "24:28"
-    },
-    "Bocholt": {
-        "Position": "11",
-        "Played": "19",
-        "Won": "6",
-        "Drawn": "4",
-        "Lost": "9",
-        "Goals": "38:39"
-    },
     "D\u00fcsseldorf II": {
-        "Position": "12",
-        "Played": "19",
-        "Won": "5",
+        "Position": "11",
+        "Played": "20",
+        "Won": "6",
         "Drawn": "6",
         "Lost": "8",
-        "Goals": "26:26"
+        "Goals": "28:26"
+    },
+    "Bocholt": {
+        "Position": "12",
+        "Played": "20",
+        "Won": "6",
+        "Drawn": "5",
+        "Lost": "9",
+        "Goals": "41:42"
+    },
+    "Wuppertal": {
+        "Position": "13",
+        "Played": "20",
+        "Won": "6",
+        "Drawn": "4",
+        "Lost": "10",
+        "Goals": "23:36"
     },
     "Uerdingen ": {
-        "Position": "13",
+        "Position": "14",
         "Played": "20",
         "Won": "6",
         "Drawn": "3",
         "Lost": "11",
         "Goals": "23:33"
     },
-    "Wuppertal": {
-        "Position": "14",
-        "Played": "19",
-        "Won": "6",
-        "Drawn": "3",
-        "Lost": "10",
-        "Goals": "22:35"
-    },
     "Hohkeppel ": {
         "Position": "15",
-        "Played": "19",
+        "Played": "20",
         "Won": "4",
-        "Drawn": "3",
+        "Drawn": "4",
         "Lost": "12",
-        "Goals": "25:39"
+        "Goals": "26:40"
     },
     "Schalke ": {
         "Position": "16",
-        "Played": "19",
+        "Played": "20",
         "Won": "4",
-        "Drawn": "3",
+        "Drawn": "4",
         "Lost": "12",
         "Goals": "22:37"
     },
     "Wiedenbr\u00fcck": {
         "Position": "17",
-        "Played": "19",
+        "Played": "20",
         "Won": "4",
-        "Drawn": "2",
+        "Drawn": "3",
         "Lost": "13",
-        "Goals": "22:37"
+        "Goals": "25:40"
     },
     "T\u00fcrkspor ": {
         "Position": "18",
-        "Played": "19",
+        "Played": "20",
         "Won": "1",
         "Drawn": "4",
-        "Lost": "14",
-        "Goals": "17:59"
+        "Lost": "15",
+        "Goals": "17:61"
     }
 }

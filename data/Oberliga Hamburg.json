@@ -1,27 +1,27 @@
 {
     "Altona 93": {
         "Position": "1",
-        "Played": "20",
+        "Played": "21",
         "Won": "18",
-        "Drawn": "1",
+        "Drawn": "2",
         "Lost": "1",
-        "Goals": "60:17"
+        "Goals": "62:19"
     },
     "Eimsb\u00fctteler TV": {
         "Position": "2",
-        "Played": "19",
+        "Played": "20",
         "Won": "16",
         "Drawn": "1",
-        "Lost": "2",
-        "Goals": "59:18"
+        "Lost": "3",
+        "Goals": "60:21"
     },
     "Dassendorf": {
         "Position": "3",
-        "Played": "20",
-        "Won": "14",
+        "Played": "21",
+        "Won": "15",
         "Drawn": "3",
         "Lost": "3",
-        "Goals": "59:23"
+        "Goals": "62:24"
     },
     "ETSV Hamburg": {
         "Position": "4",
@@ -33,19 +33,19 @@
     },
     "Paloma Hamburg": {
         "Position": "5",
-        "Played": "18",
+        "Played": "19",
         "Won": "12",
-        "Drawn": "1",
+        "Drawn": "2",
         "Lost": "5",
-        "Goals": "38:31"
+        "Goals": "41:34"
     },
     "Niendorfer TSV": {
         "Position": "6",
-        "Played": "20",
+        "Played": "21",
         "Won": "10",
-        "Drawn": "3",
+        "Drawn": "4",
         "Lost": "7",
-        "Goals": "46:27"
+        "Goals": "48:29"
     },
     "Sasel": {
         "Position": "7",
@@ -55,8 +55,16 @@
         "Lost": "7",
         "Goals": "41:43"
     },
-    "Victoria Hamburg": {
+    "TuRa Harksheide": {
         "Position": "8",
+        "Played": "21",
+        "Won": "8",
+        "Drawn": "5",
+        "Lost": "8",
+        "Goals": "49:55"
+    },
+    "Victoria Hamburg": {
+        "Position": "9",
         "Played": "21",
         "Won": "8",
         "Drawn": "4",
@@ -64,36 +72,28 @@
         "Goals": "36:39"
     },
     "BC": {
-        "Position": "9",
+        "Position": "10",
         "Played": "21",
         "Won": "8",
         "Drawn": "4",
         "Lost": "9",
         "Goals": "28:32"
     },
-    "TuRa Harksheide": {
-        "Position": "10",
-        "Played": "20",
-        "Won": "7",
-        "Drawn": "5",
-        "Lost": "8",
-        "Goals": "44:52"
+    "SC Vorw\u00e4rts": {
+        "Position": "11",
+        "Played": "21",
+        "Won": "8",
+        "Drawn": "3",
+        "Lost": "10",
+        "Goals": "48:58"
     },
     "Buchholz 08": {
-        "Position": "11",
+        "Position": "12",
         "Played": "19",
         "Won": "7",
         "Drawn": "4",
         "Lost": "8",
         "Goals": "39:38"
-    },
-    "SC Vorw\u00e4rts": {
-        "Position": "12",
-        "Played": "20",
-        "Won": "7",
-        "Drawn": "3",
-        "Lost": "10",
-        "Goals": "44:56"
     },
     "SV Halstenbek-Rellingen": {
         "Position": "13",
@@ -105,11 +105,11 @@
     },
     "FC T\u00fcrkiye Hamburg": {
         "Position": "14",
-        "Played": "20",
+        "Played": "21",
         "Won": "5",
         "Drawn": "5",
-        "Lost": "10",
-        "Goals": "38:55"
+        "Lost": "11",
+        "Goals": "41:60"
     },
     "Concordia Hamburg": {
         "Position": "15",
@@ -121,11 +121,11 @@
     },
     "S\u00fcderelbe": {
         "Position": "16",
-        "Played": "20",
+        "Played": "21",
         "Won": "5",
-        "Drawn": "2",
+        "Drawn": "3",
         "Lost": "13",
-        "Goals": "35:59"
+        "Goals": "38:62"
     },
     "FC Alsterbr\u00fcder": {
         "Position": "17",
@@ -137,10 +137,10 @@
     },
     "Hamburger SV III": {
         "Position": "18",
-        "Played": "20",
+        "Played": "21",
         "Won": "1",
         "Drawn": "2",
-        "Lost": "17",
-        "Goals": "26:71"
+        "Lost": "18",
+        "Goals": "28:75"
     }
 }
